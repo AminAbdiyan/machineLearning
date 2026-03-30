@@ -3,4 +3,5 @@ classification/__pycache__/*
 neural_network/__pycache__/*
 decision_tree/__pycache__/*
 recommander_systems/__pycache__/*
+reinforcement_learning/__pycache__/*
 usefulNotes/*
